@@ -1,0 +1,32 @@
+body, html {
+	height: 100%;
+	color: White;
+}
+
+.bg {
+  background-image: url("../imgs/image_3.jpg");
+
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: scroll;
+}
+
+#maintext {
+	text-align: auto;
+	font-size: 1vw;
+	font-weight: 400;
+	font-family: "Courier New";
+	/*letter-spacing: px;*/
+	word-spacing: 5px;
+}
+
+#mainpage {
+	text-align: auto;
+	font-size: 3.5vw;
+	font-weight: 300;
+	font-family: "Courier New";
+	/*letter-spacing: px;*/
+	word-spacing: 10px;
+}
